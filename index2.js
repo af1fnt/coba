@@ -1,1 +1,2 @@
-console.log("halo");
+console.log("test");
+console.log("fitur baru");
